@@ -2,6 +2,7 @@
 title: Weiqi Online Resources
 description: Weiqi Online Resources
 author: SoumyaK4
+pin: true
 categories: [The Online Resources]
 tags: [resources, software, server, community]
 date: 2023-01-01 00:00:00 +0530
