@@ -1,0 +1,21 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+.fa-hashtag:before {
+    content: none !important;
+}
+
+body[sidebar-display] {
+    .fa-bars:before,
+    .fa-navicon:before {
+      content: '\58' !important;
+    }
+}
