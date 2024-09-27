@@ -8,6 +8,12 @@ pin: true
 date: 1700-01-01 00:00:00 +0530
 ---
 
+<h5 style="text-align: center">
+    I've created This Roadmap in 2021 from my experience of becoming an Intermediate Level Player, <br>
+    With Just 1 Year of Self Studies, using online free resources.<br />
+    I hope this helps you on Your Journey as well. <br>
+    <b>Good Luck, Have Fun!!</b>
+</h5>
 
 ## Using the [Roadmap](/roadmap) directly
 <hr>
