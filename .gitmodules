@@ -2,6 +2,6 @@
 	path = assets/lib
 	url = https://github.com/cotes2020/chirpy-static-assets.git
 
-[submodule "lectures"]
-	path = lectures
+[submodule "assets/lectures"]
+	path = assets/lectures
 	url = git@github.com:SoumyaK4/weiqi-lectures.git
