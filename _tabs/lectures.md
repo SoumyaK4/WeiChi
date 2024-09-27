@@ -55,4 +55,4 @@ order: 3
 47. Nihon Kiin - [https://www.youtube.com/@nihonkiingochannelforovers8076](https://www.youtube.com/@nihonkiingochannelforovers8076)
 
 
-{% include embed/{youtube}.html id='{videoseries?si=uoQ4bBcmGPnOzZbA&amp;list=PLTuxcmwHQVgHuL8ge7IHupIdIwwza39Tg}' %}
+{% include embed/youtube.html id='videoseries?si=uoQ4bBcmGPnOzZbA&amp;list=PLTuxcmwHQVgHuL8ge7IHupIdIwwza39Tg' %}
