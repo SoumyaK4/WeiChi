@@ -1,3 +1,9 @@
+---
+title: Lectures
+layout: page
+permalink: /lectures/
+---
+
 # Channels List
 
 1. Andrew Jackson - [https://www.youtube.com/@AndrewJacksonSGC](https://www.youtube.com/@AndrewJacksonSGC)
