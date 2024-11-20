@@ -26,6 +26,10 @@ permalink: /acknowledgement/
 <hr>
 
 1. The site's Logo Image Borrowed from <a href="https://www.instagram.com/stonedonthegoban/" target="_blank">Stoned on the Goban</a>, as its my most favourite Weiqi Artwork of all time, and also because I find it the best fitting image for this project. <br>
+
+> Please support her <a href="https://www.kickstarter.com/projects/goplayingcards/go-playing-cards" target="_blank">Go Playing Cards</a> Kickstarter.
+{: .prompt-tip }
+
   > P.S. Do check the artworks, the artist creates the best Weiqi artworks.
 
 3. Other Images collected from <a href="https://www.pinterest.com/" target="_blank">Pinterest</a>
